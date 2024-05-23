@@ -7,7 +7,7 @@ body{
     background-color: rgb(133, 143, 140);
 }
 
-#main{
+.main{
     text-align: center;
     margin-top: 40vh;
 }
